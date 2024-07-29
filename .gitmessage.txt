@@ -1,0 +1,44 @@
+# Title Message
+# <type>(<scope>) - [#issueNumber-]: <subject>
+# ex) feat - #123: 로그인 기능 추가
+##### Subject 50 characters ################# -> |
+
+# 한 줄 공백. subject과 body 구분
+
+# Body Message (Optional) 
+######## Body 72 characters ####################################### -> |
+
+# Footer (Optional) 
+# <type>: [#issueNumber-] 
+# ex) Resolves: #123
+
+# --- COMMIT END ---
+# Title type can be
+# ✨ feat    : 새로운 기능 추가 
+# 🐛 fix     : 버그 수정
+# 💄 design   : CSS등 사용자 UI 디자인 변경 
+# ♻️  refactor : 코드 리팩토링 
+# 💡 comment  : 주석 추가 및 수정
+# 🔒️ security : 보안 취약점 해결 및 관련 변경 사항
+# 📝 docs    : 문서 수정
+# ✅ test    : 테스트 추가, 테스트 리팩토링
+# 👷 chore   : 빌드 프로세스 수정 및 환경 설정 파일 변경
+# ✏️  rename   : 파일 혹은 폴더명을 수정하거나 옮기는 작업만 하는 경우
+# 🔥 remove   : 파일을 삭제하는 작업만 수행한 경우
+# ⏪️ revert   : 이전 커밋으로 되돌리는 작업
+# -------------------------------------
+# Footer type can be
+#  Resolves : 이슈를 해결했을 때 사용(해당 이슈 닫음) 
+#    Ref    : 참고할 이슈가 있을 때 사용
+# Related to: 해당 커밋에 관련된 이슈 번호
+# -------------------------------------
+# Remember me ~
+# subject는 어떤 작업을 했는지 명확하게 드러나야하고, 요약하여 작성합니다.
+# subject는 명령조로 작성하며, 문장보다는 구문으로 작성합니다.
+# 영문으로 작성할 경우 첫글자는 대문자로 시작합니다.
+# 줄 끝에 마침표를 사용하지 않습니다.
+# subject와 body 사이에 한 줄 띄어  구분합니다. 	
+# body는 부연 설명이 필요한 경우 작성합니다. 선택사항입니다.
+# body에서 어떻게 했는지가 아니라, 무엇을 왜 했는지를 작성합니다.
+# body에 목록을 나타낼 때는 "-"로 시작합니다.
+# footer는 이슈 번호를 참조시킬 때 주로 사용합니다. 선택사항입니다.
