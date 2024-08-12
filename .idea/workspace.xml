@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05f49dd3-9652-4533-819c-30d34915e04a" name="Changes" comment="# Title Message&#10;# &lt;type&gt;(&lt;scope&gt;) - [#issueNumber-]: &lt;subject&gt;&#10;# ex) feat - #123: 로그인 기능 추가&#10;##### Subject 50 characters ################# -&gt; |&#10;✨ feat : 패키지 구조 설정&#10;# 한 줄 공백. subject과 body 구분&#10;&#10;# Body Message (Optional) &#10;######## Body 72 characters ####################################### -&gt; |&#10;패키지 구조 설정 및 예시 코드 추가&#10;# Footer (Optional) &#10;# &lt;type&gt;: [#issueNumber-] &#10;# ex) Resolves: #123&#10;&#10;# --- COMMIT END ---&#10;# Title type can be&#10;# ✨ feat    : 새로운 기능 추가 &#10;# 🐛 fix     : 버그 수정&#10;# 💄 design   : CSS등 사용자 UI 디자인 변경 &#10;# ♻️  refactor : 코드 리팩토링 &#10;# 💡 comment  : 주석 추가 및 수정&#10;# 🔒️ security : 보안 취약점 해결 및 관련 변경 사항&#10;# 📝 docs    : 문서 수정&#10;# ✅ test    : 테스트 추가, 테스트 리팩토링&#10;# 👷 chore   : 빌드 프로세스 수정 및 환경 설정 파일 변경&#10;# ✏️  rename   : 파일 혹은 폴더명을 수정하거나 옮기는 작업만 하는 경우&#10;# 🔥 remove   : 파일을 삭제하는 작업만 수행한 경우&#10;# ⏪️ revert   : 이전 커밋으로 되돌리는 작업&#10;# -------------------------------------&#10;# Footer type can be&#10;#  Resolves : 이슈를 해결했을 때 사용(해당 이슈 닫음) &#10;#    Ref    : 참고할 이슈가 있을 때 사용&#10;# Related to: 해당 커밋에 관련된 이슈 번호&#10;# -------------------------------------&#10;# Remember me ~&#10;# subject는 어떤 작업을 했는지 명확하게 드러나야하고, 요약하여 작성합니다.&#10;# subject는 명령조로 작성하며, 문장보다는 구문으로 작성합니다.&#10;# 영문으로 작성할 경우 첫글자는 대문자로 시작합니다.&#10;# 줄 끝에 마침표를 사용하지 않습니다.&#10;# subject와 body 사이에 한 줄 띄어  구분합니다. &#9;&#10;# body는 부연 설명이 필요한 경우 작성합니다. 선택사항입니다.&#10;# body에서 어떻게 했는지가 아니라, 무엇을 왜 했는지를 작성합니다.&#10;# body에 목록을 나타낼 때는 &quot;-&quot;로 시작합니다.&#10;# footer는 이슈 번호를 참조시킬 때 주로 사용합니다. 선택사항입니다.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/Welcome.java" afterDir="false" />
-    </list>
+    <list default="true" id="05f49dd3-9652-4533-819c-30d34915e04a" name="Changes" comment="# Title Message&#10;# &lt;type&gt;(&lt;scope&gt;) - [#issueNumber-]: &lt;subject&gt;&#10;# ex) feat - #123: 로그인 기능 추가&#10;##### Subject 50 characters ################# -&gt; |&#10;✨ feat : 패키지 구조 설정&#10;# 한 줄 공백. subject과 body 구분&#10;&#10;# Body Message (Optional) &#10;######## Body 72 characters ####################################### -&gt; |&#10;패키지 구조 설정 및 예시 코드 추가&#10;# Footer (Optional) &#10;# &lt;type&gt;: [#issueNumber-] &#10;# ex) Resolves: #123&#10;&#10;# --- COMMIT END ---&#10;# Title type can be&#10;# ✨ feat    : 새로운 기능 추가 &#10;# 🐛 fix     : 버그 수정&#10;# 💄 design   : CSS등 사용자 UI 디자인 변경 &#10;# ♻️  refactor : 코드 리팩토링 &#10;# 💡 comment  : 주석 추가 및 수정&#10;# 🔒️ security : 보안 취약점 해결 및 관련 변경 사항&#10;# 📝 docs    : 문서 수정&#10;# ✅ test    : 테스트 추가, 테스트 리팩토링&#10;# 👷 chore   : 빌드 프로세스 수정 및 환경 설정 파일 변경&#10;# ✏️  rename   : 파일 혹은 폴더명을 수정하거나 옮기는 작업만 하는 경우&#10;# 🔥 remove   : 파일을 삭제하는 작업만 수행한 경우&#10;# ⏪️ revert   : 이전 커밋으로 되돌리는 작업&#10;# -------------------------------------&#10;# Footer type can be&#10;#  Resolves : 이슈를 해결했을 때 사용(해당 이슈 닫음) &#10;#    Ref    : 참고할 이슈가 있을 때 사용&#10;# Related to: 해당 커밋에 관련된 이슈 번호&#10;# -------------------------------------&#10;# Remember me ~&#10;# subject는 어떤 작업을 했는지 명확하게 드러나야하고, 요약하여 작성합니다.&#10;# subject는 명령조로 작성하며, 문장보다는 구문으로 작성합니다.&#10;# 영문으로 작성할 경우 첫글자는 대문자로 시작합니다.&#10;# 줄 끝에 마침표를 사용하지 않습니다.&#10;# subject와 body 사이에 한 줄 띄어  구분합니다. &#9;&#10;# body는 부연 설명이 필요한 경우 작성합니다. 선택사항입니다.&#10;# body에서 어떻게 했는지가 아니라, 무엇을 왜 했는지를 작성합니다.&#10;# body에 목록을 나타낼 때는 &quot;-&quot;로 시작합니다.&#10;# footer는 이슈 번호를 참조시킬 때 주로 사용합니다. 선택사항입니다." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,24 +32,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/kimjeongu/gitStudy/ssg-LCW",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kimjeongu/gitStudy/ssg-LCW&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +60,7 @@
       <updated>1722989105876</updated>
       <workItem from="1722989106995" duration="1773000" />
       <workItem from="1723443403576" duration="7416000" />
-      <workItem from="1723454070075" duration="2740000" />
+      <workItem from="1723454070075" duration="3363000" />
     </task>
     <task id="LOCAL-00001" summary="# Title Message&#10;# &lt;type&gt;(&lt;scope&gt;) - [#issueNumber-]: &lt;subject&gt;&#10;# ex) feat - #123: 로그인 기능 추가&#10;##### Subject 50 characters ################# -&gt; |&#10;✨ feat : 패키지 구조 설정&#10;# 한 줄 공백. subject과 body 구분&#10;&#10;# Body Message (Optional) &#10;######## Body 72 characters ####################################### -&gt; |&#10;패키지 구조 설정 및 예시 코드 추가&#10;# Footer (Optional) &#10;# &lt;type&gt;: [#issueNumber-] &#10;# ex) Resolves: #123&#10;&#10;# --- COMMIT END ---&#10;# Title type can be&#10;# ✨ feat    : 새로운 기능 추가 &#10;# 🐛 fix     : 버그 수정&#10;# 💄 design   : CSS등 사용자 UI 디자인 변경 &#10;# ♻️  refactor : 코드 리팩토링 &#10;# 💡 comment  : 주석 추가 및 수정&#10;# 🔒️ security : 보안 취약점 해결 및 관련 변경 사항&#10;# 📝 docs    : 문서 수정&#10;# ✅ test    : 테스트 추가, 테스트 리팩토링&#10;# 👷 chore   : 빌드 프로세스 수정 및 환경 설정 파일 변경&#10;# ✏️  rename   : 파일 혹은 폴더명을 수정하거나 옮기는 작업만 하는 경우&#10;# 🔥 remove   : 파일을 삭제하는 작업만 수행한 경우&#10;# ⏪️ revert   : 이전 커밋으로 되돌리는 작업&#10;# -------------------------------------&#10;# Footer type can be&#10;#  Resolves : 이슈를 해결했을 때 사용(해당 이슈 닫음) &#10;#    Ref    : 참고할 이슈가 있을 때 사용&#10;# Related to: 해당 커밋에 관련된 이슈 번호&#10;# -------------------------------------&#10;# Remember me ~&#10;# subject는 어떤 작업을 했는지 명확하게 드러나야하고, 요약하여 작성합니다.&#10;# subject는 명령조로 작성하며, 문장보다는 구문으로 작성합니다.&#10;# 영문으로 작성할 경우 첫글자는 대문자로 시작합니다.&#10;# 줄 끝에 마침표를 사용하지 않습니다.&#10;# subject와 body 사이에 한 줄 띄어  구분합니다. &#9;&#10;# body는 부연 설명이 필요한 경우 작성합니다. 선택사항입니다.&#10;# body에서 어떻게 했는지가 아니라, 무엇을 왜 했는지를 작성합니다.&#10;# body에 목록을 나타낼 때는 &quot;-&quot;로 시작합니다.&#10;# footer는 이슈 번호를 참조시킬 때 주로 사용합니다. 선택사항입니다.">
       <created>1723455191822</created>
